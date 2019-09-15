@@ -1,0 +1,15 @@
+[14-Sep-2019 18:32:36 UTC] PHP Warning:  include(inc/nav.inc): failed to open stream: No such file or directory in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[14-Sep-2019 18:32:36 UTC] PHP Warning:  include(inc/nav.inc): failed to open stream: No such file or directory in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[14-Sep-2019 18:32:36 UTC] PHP Warning:  include(): Failed opening 'inc/nav.inc' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 01:55:04 UTC] PHP Warning:  include(inc/nav.inc): failed to open stream: No such file or directory in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 01:55:04 UTC] PHP Warning:  include(inc/nav.inc): failed to open stream: No such file or directory in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 01:55:04 UTC] PHP Warning:  include(): Failed opening 'inc/nav.inc' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 01:57:30 UTC] PHP Warning:  include(inc/nav.inc): failed to open stream: No such file or directory in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 01:57:30 UTC] PHP Warning:  include(inc/nav.inc): failed to open stream: No such file or directory in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 01:57:30 UTC] PHP Warning:  include(): Failed opening 'inc/nav.inc' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 02:01:03 UTC] PHP Warning:  include(inc/nav.inc): failed to open stream: No such file or directory in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 02:01:03 UTC] PHP Warning:  include(inc/nav.inc): failed to open stream: No such file or directory in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 02:01:03 UTC] PHP Warning:  include(): Failed opening 'inc/nav.inc' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 02:01:35 UTC] PHP Warning:  include(inc/nav.inc): failed to open stream: No such file or directory in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 02:01:35 UTC] PHP Warning:  include(inc/nav.inc): failed to open stream: No such file or directory in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
+[15-Sep-2019 02:01:35 UTC] PHP Warning:  include(): Failed opening 'inc/nav.inc' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/urcscon3/public_html/lab02/team-havana/index.php on line 11
